@@ -15,3 +15,6 @@
 
 <img width="5963" height="8260" alt="miami_beach_florida_analysis" src="https://github.com/user-attachments/assets/9b7d869f-8fcf-4e4d-b970-b2a1db4bdcd9" />
 
+PS: THIS SCRIPT GENERATES RESULTS IN .csv FORMAT (SPREADSHEET)
+
+By Gleaphe 2025 . 
